@@ -6,3 +6,4 @@ A,B = input("").split()
 area = int(A)*int(B)
 
 print(area)
+ #cálculo finalizado
